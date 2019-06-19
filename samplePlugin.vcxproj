@@ -136,7 +136,6 @@
     <ClCompile Include="..\skse64\GameTypes.cpp" />
     <ClCompile Include="..\skse64\GameUtilities.cpp" />
     <ClCompile Include="..\skse64\HashUtil.cpp" />
-    <ClCompile Include="..\skse64\NiAllocator.cpp" />
     <ClCompile Include="..\skse64\NiExtraData.cpp" />
     <ClCompile Include="..\skse64\NiNodes.cpp" />
     <ClCompile Include="..\skse64\NiObjects.cpp" />
@@ -169,7 +168,6 @@
     <ClInclude Include="..\skse64\GameTypes.h" />
     <ClInclude Include="..\skse64\GameUtilities.h" />
     <ClInclude Include="..\skse64\HashUtil.h" />
-    <ClInclude Include="..\skse64\NiAllocator.h" />
     <ClInclude Include="..\skse64\NiExtraData.h" />
     <ClInclude Include="..\skse64\NiNodes.h" />
     <ClInclude Include="..\skse64\NiObjects.h" />

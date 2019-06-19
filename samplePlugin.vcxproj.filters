@@ -78,9 +78,6 @@
     <ClCompile Include="..\skse64\NiObjects.cpp">
       <Filter>api</Filter>
     </ClCompile>
-    <ClCompile Include="..\skse64\NiAllocator.cpp">
-      <Filter>api</Filter>
-    </ClCompile>
     <ClCompile Include="..\skse64\NiTypes.cpp">
       <Filter>api</Filter>
     </ClCompile>
@@ -166,9 +163,6 @@
       <Filter>api</Filter>
     </ClInclude>
     <ClInclude Include="..\skse64\NiObjects.h">
-      <Filter>api</Filter>
-    </ClInclude>
-    <ClInclude Include="..\skse64\NiAllocator.h">
       <Filter>api</Filter>
     </ClInclude>
     <ClInclude Include="..\skse64\NiTypes.h">
